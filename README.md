@@ -1,1 +1,1 @@
-# HTML-CSS-Project-Spotify-Clone-
+This project is developed by using only HTML & CSS
